@@ -11,7 +11,7 @@ I am Fernando Korndörfer, a certified multi-cloud solutions architect.
 - 🧠 AI/ML, Data Analytics
 - 🤖 IoT, Microcontrollers
 - ⌨️ Bash, PowerShell, Python, SQL, RegExp
-- 💪 Check out my [CV](https://fok666.github.io/public-cv/), [badges](https://fok666.github.io/public-cv/badges) and [certificates](https://fok666.github.io/public-cv/certificates).
+<!-- - 💪 Check out my [CV](https://fok666.github.io/public-cv/), [badges](https://fok666.github.io/public-cv/badges) and [certificates](https://fok666.github.io/public-cv/certificates). -->
 
 ### Social links
 <a href="https://www.linkedin.com/in/fok666/"><img width="32" height="32" src="https://raw.githubusercontent.com/fok666/public-cv/main/icons/linkedin.png"></a>
